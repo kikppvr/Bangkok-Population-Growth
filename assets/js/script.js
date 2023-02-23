@@ -10,7 +10,7 @@ bars.forEach((bar) => {
     // }
     // console.log(bar.dataset.width);
 
-    console.log(Math.max(bar.dataset.width));
+    // console.log(Math.max(bar.dataset.width));
 
     // for (let item of bar.dataset.width) {
     //     queue += item;
