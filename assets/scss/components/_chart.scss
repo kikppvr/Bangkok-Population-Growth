@@ -95,7 +95,7 @@
             border-radius: 0;
 
             &:before {
-                content: attr(data-width) '%';
+                // content: attr(data-width) '%';
 
                 @include media-breakpoint-down(sm) {
                     font-size: 10px;
